@@ -4,7 +4,7 @@ email:       tatashat@gmail.com
 author:      Tania Shatilova
 description: "Thougts on tech, development, life hacks"
 baseurl:     ""
-url:         "http://sufflavus.github.io"
+url:         "http://sufflavus.github.io/dev-blog"
 date_format: "%b %-d, %Y"
 
 # Google analytics
